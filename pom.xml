@@ -17,11 +17,12 @@
 
     <modules>
         <!-- Starter module -->
+        <module>message-spring-boot-core</module>
         <module>message-spring-boot-autoconfigure</module>
-        <module>message-spring-boot-starters</module>
+        <module>message-spring-boot-starter</module>
 
         <!--  sample project -->
-        <module>sample-message</module>
+        <module>message-spring-boot-starter-application</module>
 
     </modules>
     <dependencyManagement>
