@@ -1,4 +1,4 @@
-package kr.co.kpcard.message.springboot.starter;
+package kr.co.kpcard.message.autoconfigure;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
